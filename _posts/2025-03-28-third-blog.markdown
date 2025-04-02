@@ -4,8 +4,7 @@ title:  "DBS101 Unit 3"
 date:   2025-03-28 18:23:50
 categories: Blog
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+
 ---
 Mastering Database Systems: Unit 2 Must-Knows
 ACID: The Cornerstones of Reliable Transactions

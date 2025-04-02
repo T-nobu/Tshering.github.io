@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Tshering Norbu"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+
 
 email: a-mail@mail.mail
 #blog logo
@@ -16,9 +16,9 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Tshering Norbu'
+author: 'Tshering Norbu'
+
 
 paginate:	5
 
