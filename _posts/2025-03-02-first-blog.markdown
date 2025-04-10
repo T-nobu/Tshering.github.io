@@ -13,7 +13,9 @@ tags: regular
 A database is an organized collection of structured information, typically stored electronically in a computer system. It allows for efficient data retrieval, updating, and management. A Database Management System (DBMS) is a software system that enables users to interact with the database, providing tools for data storage, retrieval, and manipulation.
 
 Advantages of Database Systems
+
 Database systems are essential for managing large, valuable datasets accessed by multiple users and applications:
+
 
 Data abstraction: Simplifying complex data structures for users.
 
